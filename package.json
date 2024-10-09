@@ -1,0 +1,17 @@
+{
+  "name": "crud-rethinkdb",
+  "version": "1.0.0",
+  "description": "CRUD STUDY FOR TECHNICAL TEAM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Havvanur Rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.21.0",
+    "rethinkdb": "^2.4.2",
+    "rethinkdbdash": "^2.3.31"
+  }
+}
