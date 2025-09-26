@@ -1,9 +1,8 @@
 # RETHINKDB ile CRUD İŞLEMLERİ YAPTIĞIM ÇALIŞMA 
 Bu çalışma Create - Read - Update - Delete işlemleri yapan basit bir to-do-list çalışmasıdır.
 ### Kullanılan Teknolojiler:
-```bash
-HTML 
-CSS 
-RethinkDB
-JavaScript
-```
+- HTML 
+- CSS 
+- RethinkDB
+- JavaScript
+
